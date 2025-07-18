@@ -1,5 +1,17 @@
 # Changelog
 
+## [9.0.2](https://github.com/amzxyz/rime_wanxiang/compare/v9.0.1...v9.0.2) (2025-07-18)
+
+
+### 📚 词库更新
+
+* 词库调整 ([74917c8](https://github.com/amzxyz/rime_wanxiang/commit/74917c8d9b6867c39d6c2b9619a55f60f16547b0))
+
+
+### 🐛 Bug 修复
+
+* 提高压缩率 ([cb5a0a1](https://github.com/amzxyz/rime_wanxiang/commit/cb5a0a115141e72ccfd2384a07ed833b2bb2e263))
+
 ## [9.0.1](https://github.com/amzxyz/rime_wanxiang/compare/v9.0.0...v9.0.1) (2025-07-18)
 
 
